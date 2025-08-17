@@ -1,3 +1,5 @@
+Multiclass Cancer Classification | Self-Project [Aug ’24 - Dec’24]
+
 •Analyzed RNA-Seq data of 802patients (20K+genes) across five cancer types to identify key predictive genetic markers
 
 •Applied PCA,LDA,t-SNEand built models (SVM, Random Forest, XGBoost, Neural Network) for cancer classification
